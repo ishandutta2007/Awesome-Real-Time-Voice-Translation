@@ -1,6 +1,6 @@
 # Awesome-Real-Time-Voice-Translation
 
-# Real-Time Voice Translation Platforms Ecosystem
+## Real-Time Voice Translation Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on AI-Powered Real-Time Speech-to-Speech & Voice Translation*  
@@ -110,3 +110,17 @@ Star the repo if you find it useful!
 
 **Made for interpreters, event organizers, global teams, developers, and accessibility advocates.**  
 Let's make real-time voice translation more accurate, private, and accessible to everyone.
+
+
+## 📈 Star History
+
+<div align="center">
+  <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Real-Time-Voice-Translation&type=date&legend=bottom-right">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Real-Time-Voice-Translation&type=date&theme=dark&legend=bottom-right" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Real-Time-Voice-Translation&type=date&legend=bottom-right" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Real-Time-Voice-Translation&type=date&legend=bottom-right" />
+    </picture>
+  </a>
+</div>
+
