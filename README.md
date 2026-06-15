@@ -24,33 +24,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Real-Time Voice Translation)
 
-- **[Palabra.ai](https://palabra.ai/)**  
-  AI-powered real-time voice translation platform optimized for conversations, meetings, and events with high accuracy and natural voice output.
-
-- **[Maestra AI](https://maestra.ai/)**  
-  Comprehensive AI meeting and translation platform offering real-time speech-to-speech translation, transcription, and subtitles.
-
-- **[Wordly.ai](https://wordly.ai/)**  
-  Enterprise-grade real-time interpretation platform for conferences, webinars, and large events with multi-language support.
-
-- **[Talo](https://talo.ai/)**  
-  Intelligent real-time voice translation solution focused on natural conversation flow and low latency.
-
-- **[DeepL Voice](https://www.deepl.com/)**  
-  Voice translation feature from the highly accurate DeepL translation engine, known for natural-sounding results.
-
-- **[Interprefy](https://interprefy.com/)**  
-  Professional real-time remote interpretation platform used for high-stakes multilingual events and meetings.
-
-- **[Timekettle X1](https://www.timekettle.co/)**  
-  Hardware + AI hybrid solution for real-time two-way voice translation with dedicated translation earbuds.
-
-- **[KUDO AI](https://www.kudo.ai/)**  
-  AI-powered simultaneous interpretation platform for conferences and global business communication.
+| SaaS Product | Description | Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Palabra.ai](https://palabra.ai/)** | AI-powered real-time voice translation optimized for conversations, meetings, and events. | **Starter:** $60/mo for 3h<br>**Pro:** $200/mo for 10h<br>**Team:** $1000/mo for 50h | **Free Trial:** Limited daily minutes to test latency/cloning. |
+| **[Maestra AI](https://maestra.ai/)** | Comprehensive platform for real-time speech-to-speech, transcription, and subtitles. | **Pay-As-You-Go:** $0.20/min<br>**Lite:** $23/mo (180 mins)<br>**Premium:** $79/mo (900 mins) | **Free Trial:** 30 minutes of free transcription/translation. |
+| **[Wordly.ai](https://wordly.ai/)** | Enterprise-grade interpretation for conferences and large events. | **Starter:** ~$75/hour<br>Custom quotes for large packages. | **Free Trial:** Available upon request. |
+| **[Talo](https://talo.ai/)** | Low-latency solution focused on natural conversation flow. | **Starter:** $33/mo (95 mins)<br>**Pro:** $80/mo (400 mins)<br>**Team:** $400/mo | **Free Trial:** 7-day trial with 200 minutes. |
+| **[DeepL Voice](https://www.deepl.com/)** | High-accuracy voice translation using the DeepL engine. | **Custom:** Contact sales for Voice API pricing. | **Free Tier:** 50k chars/mo for Translator (not Voice). |
+| **[Interprefy](https://interprefy.com/)** | Professional remote interpretation for high-stakes multilingual events. | **Custom:** Based on duration and complexity. | **Free Tier:** Demos available on request. |
+| **[Timekettle X1](https://www.timekettle.co/)** | Hardware + AI hybrid for two-way translation (earbuds/device). | **Hardware:** $699.99 (Standalone device) | **N/A:** Hardware purchase; no recurring sub for core features. |
+| **[KUDO AI](https://www.kudo.ai/)** | AI simultaneous interpretation for business communication. | **Subscription:** Tiered packages (75h to 1,000h per year). | **Free Tier:** 10 minutes of live transcription for testing. |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: Google Translate Live, Microsoft Translator (Azure), iTranslate, and various Zoom/Teams built-in interpreters.
+| Service | Description | Pricing (per 1M characters) | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **[Google Translate Live](https://cloud.google.com/translate)** | Standard NMT for apps and streaming. | $20.00 | 500,000 characters per month |
+| **[Microsoft Translator](https://azure.microsoft.com/en-us/products/ai-services/ai-translator)** | Azure-based translation with broad language support. | $10.00 | 2,000,000 characters per month |
+| **[iTranslate](https://www.itranslate.com/)** | Consumer app and enterprise-level translation. | **Consumer:** $5.99/mo (Pro)<br>**API:** Custom Enterprise | Limited free version for app users. |
 
 ## Open-Source GitHub Projects
 
