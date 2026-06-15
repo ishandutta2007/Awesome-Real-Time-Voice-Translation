@@ -9,6 +9,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Voice-Translation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Real-Time-Voice-Translation?style=for-the-badge&color=white" alt="Forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Voice-Translation/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Real-Time-Voice-Translation?style=for-the-badge&color=white" alt="Issues"></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Real-Time-Voice-Translation?style=for-the-badge&color=white" alt="License"></a>
+  <a href="https://github.com/ishandutta2007"><img src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&color=white" alt="GitHub followers"></a>
 </p>
 
 <p align="center">
