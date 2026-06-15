@@ -45,38 +45,41 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-### Dedicated Real-Time Voice Translation Projects
-
-- **[Seamless Communication (Meta)](https://github.com/facebookresearch/seamless_communication)**  
-  State-of-the-art open-source SeamlessM4T model family for speech-to-speech, speech-to-text, text-to-speech, and text-to-text translation supporting 100+ languages. Excellent for building real-time systems.
-
-- **[faster-whisper + NLLB / Seamless pipelines](https://github.com/SYSTRAN/faster-whisper)**  
-  High-performance Whisper implementation optimized for speed. Widely used as the foundation for real-time speech-to-text + translation pipelines.
-
-- **[Live-Translate](https://github.com/ahmetoner/whisper-asr-websocket)** + translation extensions  
-  Real-time speech recognition server with WebSocket support, easily combined with translation models for live voice translation.
-
-- **[Coqui TTS / Tortoise TTS](https://github.com/coqui-ai/TTS)**  
+- **[Coqui TTS / Tortoise TTS](https://github.com/coqui-ai/TTS)** [![Stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers)  
   High-quality open-source text-to-speech models that can be paired with translation models for natural voice output in target languages.
 
-- **[Piper TTS](https://github.com/rhasspy/piper)**  
-  Fast, local neural text-to-speech system optimized for real-time performance on edge devices.
-
-- **[OpenVoice](https://github.com/myshell-ai/OpenVoice)**  
+- **[OpenVoice](https://github.com/myshell-ai/OpenVoice)** [![Stars](https://img.shields.io/github/stars/myshell-ai/OpenVoice?style=social&color=white)](https://github.com/myshell-ai/OpenVoice/stargazers)  
   Instant voice cloning and real-time voice conversion toolkit that can be integrated into translation pipelines for natural prosody.
 
-- **[Vosk API](https://github.com/alphacep/vosk-api)**  
+- **[Meta MMS (Massively Multilingual Speech)](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)** [![Stars](https://img.shields.io/github/stars/facebookresearch/fairseq?style=social&color=white)](https://github.com/facebookresearch/fairseq/stargazers)  
+  Large collection of speech models for 1,000+ languages.
+
+- **[faster-whisper + NLLB / Seamless pipelines](https://github.com/SYSTRAN/faster-whisper)** [![Stars](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=social&color=white)](https://github.com/SYSTRAN/faster-whisper/stargazers)  
+  High-performance Whisper implementation optimized for speed. Widely used as the foundation for real-time speech-to-text + translation pipelines.
+
+- **[NVIDIA NeMo](https://github.com/NVIDIA/NeMo)** [![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo?style=social&color=white)](https://github.com/NVIDIA/NeMo/stargazers)  
+  Toolkit for building ASR, TTS, and translation models with excellent real-time support.
+
+- **[Vosk API](https://github.com/alphacep/vosk-api)** [![Stars](https://img.shields.io/github/stars/alphacep/vosk-api?style=social&color=white)](https://github.com/alphacep/vosk-api/stargazers)  
   Lightweight offline speech recognition toolkit supporting 20+ languages. Excellent for on-device real-time translation.
 
-- **[whisper-live](https://github.com/collabora/WhisperLive)**  
+- **[Seamless Communication (Meta)](https://github.com/facebookresearch/seamless_communication)** [![Stars](https://img.shields.io/github/stars/facebookresearch/seamless_communication?style=social&color=white)](https://github.com/facebookresearch/seamless_communication/stargazers)  
+  State-of-the-art open-source SeamlessM4T model family for speech-to-speech, speech-to-text, text-to-speech, and text-to-text translation supporting 100+ languages. Excellent for building real-time systems.
+
+- **[SpeechBrain](https://github.com/speechbrain/speechbrain)** [![Stars](https://img.shields.io/github/stars/speechbrain/speechbrain?style=social&color=white)](https://github.com/speechbrain/speechbrain/stargazers)  
+  PyTorch-based toolkit for speech processing including translation pipelines.
+
+- **[Piper TTS](https://github.com/rhasspy/piper)** [![Stars](https://img.shields.io/github/stars/rhasspy/piper?style=social&color=white)](https://github.com/rhasspy/piper/stargazers)  
+  Fast, local neural text-to-speech system optimized for real-time performance on edge devices.
+
+- **[whisper-live](https://github.com/collabora/WhisperLive)** [![Stars](https://img.shields.io/github/stars/collabora/WhisperLive?style=social&color=white)](https://github.com/collabora/WhisperLive/stargazers)  
   Real-time whisper-based transcription server designed for low-latency streaming applications.
 
-### Additional Strong Open-Source Options
+- **[Live-Translate](https://github.com/ahmetoner/whisper-asr-websocket)** [![Stars](https://img.shields.io/github/stars/ahmetoner/whisper-asr-websocket?style=social&color=white)](https://github.com/ahmetoner/whisper-asr-websocket/stargazers) + translation extensions  
+  Real-time speech recognition server with WebSocket support, easily combined with translation models for live voice translation.
 
-- **[Meta MMS (Massively Multilingual Speech)](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)** — Large collection of speech models for 1,000+ languages.
-- **[NVIDIA NeMo](https://github.com/NVIDIA/NeMo)** — Toolkit for building ASR, TTS, and translation models with excellent real-time support.
-- **[SpeechBrain](https://github.com/speechbrain/speechbrain)** — PyTorch-based toolkit for speech processing including translation pipelines.
-- **[Rhasspy / Mycroft](https://github.com/rhasspy)** — Offline voice assistant frameworks that can be extended for translation.
+- **[Rhasspy / Mycroft](https://github.com/rhasspy/rhasspy)** [![Stars](https://img.shields.io/github/stars/rhasspy/rhasspy?style=social&color=white)](https://github.com/rhasspy/rhasspy/stargazers)  
+  Offline private voice assistant frameworks that can be extended for translation.
 - **Custom Pipelines**: Many community repos combining `faster-whisper` + `transformers` (NLLB/Seamless) + `Piper TTS` for full speech-to-speech translation.
 - Edge-optimized projects using ONNX Runtime, TensorRT-LLM, or llama.cpp for running translation models locally.
 
