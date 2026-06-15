@@ -132,11 +132,6 @@ Use **Faster-Whisper + SeamlessM4T + Piper TTS** with **LangGraph** or **Streami
 
 ---
 
-<p align="center">
-  <b>Made for global teams, event organizers, and developers.</b><br>
-  <i>Let's make real-time voice translation accessible to everyone.</i>
-</p>
-
 ## 📈 Star History
 
 <div align="center">
@@ -144,3 +139,10 @@ Use **Faster-Whisper + SeamlessM4T + Piper TTS** with **LangGraph** or **Streami
     <img src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Real-Time-Voice-Translation&type=date" width="100%" alt="Star History Chart">
   </a>
 </div>
+
+---
+
+<p align="center">
+  <b>Made for global teams, event organizers, and developers.</b><br>
+  <i>Let's make real-time voice translation accessible to everyone.</i>
+</p>
