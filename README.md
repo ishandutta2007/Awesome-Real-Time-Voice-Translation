@@ -61,6 +61,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 | :--- | :--- | :--- | :--- | :--- |
 | **[Microsoft Translator](https://azure.microsoft.com/en-us/products/ai-services/ai-translator)** | ☁️ Azure-based translation with broad language support. | **$3T+** (Market Cap) | $10.00 | 2,000,000 characters per month |
 | **[Google Translate Live](https://cloud.google.com/translate)** | 🔍 Standard NMT for apps and streaming. | **$2T+** (Market Cap) | $20.00 | 500,000 characters per month |
+| **[Gradium](https://gradium.ai/)** | 🎙️ Real-time speech-to-speech translation API built on streaming speech-to-text and text-to-speech with semantic turn detection; English, French, German, Spanish, Portuguese. | **$100M** (Seed Raised) | **Free:** 45k credits/mo (non-commercial)<br>**Paid:** from $13/mo | 45k credits per month (non-commercial) |
 | **[iTranslate](https://www.itranslate.com/)** | 📱 Consumer app and enterprise-level translation. | **$15M+** (Est. Revenue) | **Consumer:** $5.99/mo (Pro)<br>**API:** Custom Enterprise | Limited free version for app users. |
 
 ---
